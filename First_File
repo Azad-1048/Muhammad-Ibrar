@@ -1,2 +1,8 @@
 cout << "Muhmmad Ibrar";
 cout << "23-st-047";
+cout << "Math";
+cout << "Physics";
+cout << "Computer";
+cout << "Urdu";
+cout << "English";
+cout << "Islamyat";
